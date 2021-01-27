@@ -1,0 +1,32 @@
+.navv{
+    margin-top: 50px;
+    
+}
+
+.navv li{
+    padding: 20px;
+    background-color: #f8f9fa;
+    margin: 10px;
+    list-style: none;
+    border-left: solid 5px #495057;
+    /* box-shadow: 1px 0px 2px #495057; */
+}
+a:focus, a:hover{
+    color:  #000;
+
+}
+
+.link{
+    padding: 20px;
+    text-decoration: none;
+    color: #495057;
+  
+}
+.example-spacer {
+    flex: 1 1 auto;
+  }
+
+  .example-header-image {
+    background-image: url('https://material.angular.io/assets/img/examples/shiba1.jpg');
+    background-size: cover;
+  }
